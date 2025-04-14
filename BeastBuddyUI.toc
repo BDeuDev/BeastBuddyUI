@@ -1,0 +1,9 @@
+## Interface: 60000
+## Title: PetUI
+## Author: BDeuDev
+## Notes: A TurtleWoW UI for hunter pets
+## Version: 0.1.0-alpha
+## DefaultState: enable
+
+Fonts\Myriad-Pro.ttf
+Core.lua
